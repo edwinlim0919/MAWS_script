@@ -23,7 +23,7 @@ from the .csv files provided as input.
 
 Usage: python3 webscraper_script.py filename_1 colname_1 filename_2 colname_2 ... 
 
-filename_x: the xth .csv file to merge
+filename_x: the xth .csv file to merge       
 colname_x:  name of the column that contains email addresses for the xth .csv file 
 
 Output: Result will be put in all_emails.csv after script completes
@@ -37,7 +37,7 @@ something else.
 
 Usage: Usage: python3 webscraper_script.py filename colname
 
-filename: the name of the .csv file containing the emails to scrape
+filename: the name of the .csv file containing the emails to scrape       
 colname:  the name of the column that contains email addresses for the .csv file
 
 Output: Result will be put in graduated_members.csv after script completes
