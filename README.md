@@ -1,5 +1,5 @@
-###### IEEE Slack Member Webscraper
+# IEEE Slack Member Webscraper
 
-#### csv_merger.py
+## csv_merger.py
 
-#### directory_scraper.py
+## directory_scraper.py
