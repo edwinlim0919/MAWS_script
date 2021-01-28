@@ -14,11 +14,7 @@ https://packaging.python.org/guides/installing-using-pip-and-virtual-environment
 Python 3.9.1
 
 #### Necessary Packages:
-pandas
-time
-requests
-sys
-bs4
+pandas, time, requests, sys, bs4
 
 ## csv_merger.py
 This script is meant for merging emails from different .csv files together. It can be
