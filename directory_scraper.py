@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import time
 import requests
 import sys
@@ -7,6 +6,10 @@ from bs4 import BeautifulSoup
 
 # Author: Edwin Lim (Director of TechOps)
 # Date: January 27, 2021
+#
+# This is a python script that scrapes the Cal Directory to find 
+# what emails belong to graduated students. Instructions for use can 
+# be found at [insert wiki link].
 #
 # We require 2 arguments for this script:
 # (1) The name of the .csv file to be scraped
