@@ -10,10 +10,10 @@ I recommend using a virtual environment to run these scripts.
 More information can be found at: 
 https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/.
 
-#### Python version: 
+#### Python Version 
 Python 3.9.1
 
-#### Necessary Packages:
+#### Necessary Packages
 pandas, time, requests, sys, bs4
 
 ## csv_merger.py
