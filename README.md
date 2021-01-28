@@ -24,7 +24,7 @@ from the .csv files provided as input.
 Usage: python3 webscraper_script.py filename_1 colname_1 filename_2 colname_2 ... 
 
 filename_x: the xth .csv file to merge       
-colname_x:  name of the column that contains email addresses for the xth .csv file 
+colname_x:  the name of the column that contains email addresses for the xth .csv file 
 
 Output: Result will be put in all_emails.csv after script completes
 
